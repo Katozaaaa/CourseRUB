@@ -114,7 +114,7 @@ namespace CourseRUB {
 			this->roll->Size = System::Drawing::Size(28, 20);
 			this->roll->TabIndex = 1;
 			this->roll->TabStop = false;
-			this->roll->Text = L"—";
+			this->roll->Text = L"â€”";
 			this->roll->UseVisualStyleBackColor = true;
 			this->roll->Click += gcnew System::EventHandler(this, &MyForm::roll_Click);
 			// 
@@ -141,7 +141,7 @@ namespace CourseRUB {
 			this->course_label->Name = L"course_label";
 			this->course_label->Size = System::Drawing::Size(76, 24);
 			this->course_label->TabIndex = 1;
-			this->course_label->Text = L"Âàëþòà";
+			this->course_label->Text = L"Ð’Ð°Ð»ÑŽÑ‚Ð°";
 			// 
 			// bit_label
 			// 
@@ -154,7 +154,7 @@ namespace CourseRUB {
 			this->bit_label->Name = L"bit_label";
 			this->bit_label->Size = System::Drawing::Size(136, 24);
 			this->bit_label->TabIndex = 2;
-			this->bit_label->Text = L"Ïðåäëîæåíèå";
+			this->bit_label->Text = L"ÐŸÑ€ÐµÐ´Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ";
 			// 
 			// bit_panel
 			// 
